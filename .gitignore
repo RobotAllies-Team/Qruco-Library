@@ -1,1 +1,6 @@
-/build
+target
+.idea
+*.iml
+.DS_Store
+.DD_API.SQ
+com.API.MAC.pro.~J INSTALL
