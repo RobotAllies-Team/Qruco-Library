@@ -2,6 +2,8 @@
 library that base on ZXING
 
 # Performance test
+![IMG_1636](https://user-images.githubusercontent.com/48949523/79940487-145abc00-848c-11ea-8280-da634442ae4e.jpg)
+
 
 
 # Release
