@@ -1,5 +1,6 @@
 # Notice!!
 This library no longer update.
+I will continue do in : https://github.com/api-development/Api-QR-Detect-and-Decode-
 
 # Qruco-Libray
 library that base on ZXING
