@@ -1,7 +1,10 @@
+# Notice!!
+This library no longer update.
+
 # Qruco-Libray
 library that base on ZXING
 
-# Update!!
+# Update
 Version 1.1
 Date 4/22/2020
 Feature : include throws all exception
