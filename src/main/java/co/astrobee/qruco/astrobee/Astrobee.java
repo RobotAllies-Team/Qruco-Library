@@ -46,7 +46,7 @@ public class Astrobee{
   }
 
   public double Calculate_QuaW (double QX, double QY, double QZ){
-    double Process_1 = QX*QY;
+    /*double Process_1 = QX*QY;
     Log.i("QrucoLib", "[Calculate Qua_W] Process 1 (QX*QY) = " + Process_1);
     double Process_2 = Math.sqrt(QZ);
     Log.i("QrucoLib", "[Calculate Qua_W] Process 2 (sqrt.QZ) = " + Process_2);
@@ -57,6 +57,7 @@ public class Astrobee{
     double Process_5 = Math.pow(Process_4, 2);
     Log.i("QrucoLib", "[Calculate Qua_W] Process 5 (Process_4 pow.2) " + Process_5);
     //double Data = Math.pow((QX * QY * Math.sqrt(QZ)) -3,2);
-    return Process_5;
+    return Process_5;*/
+    return Math.pow((QX * QY * Math.sqrt(QZ)) -3,2);
   }
 }
