@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+
+
+//CopyRight Api Development 2020
+//MIT License & API License
+
 package co.astrobee.qruco;
 
 import java.util.Map;
@@ -42,12 +47,21 @@ public interface Reader {
    * @throws FormatException if a potential barcode is found but format is invalid
    */
   Result qrcode(BinaryBitmap image) throws NotFoundException, ChecksumException, FormatException;
+  
+  
 
-  Result qrcode1(BinaryBitmap image) throws Exception;
+  Result qrcode_OPTION_EXCEPTION(BinaryBitmap image) throws Exception;
+  
   
   
   Result qrcode(BinaryBitmap image, Map<DecodeHintType,?> hints)
       throws NotFoundException, ChecksumException, FormatException;
+  
+  
+    Result qrcode_OPTION_EXCEPTION(BinaryBitmap image, Map<DecodeHintType,?> hints)
+      throws Exception;
+  
+  
 
   /**
    * Resets any internal state the implementation has after a decode, to prepare it
