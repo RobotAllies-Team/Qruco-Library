@@ -1,6 +1,11 @@
 # Qruco-Libray
 library that base on ZXING
 
+# Update!!
+Version 1.1
+Date 4/22/2020
+Feature : include throws all exception and import Api QR(Ver1.0)
+
 # Performance test
 ![IMG_1636](https://user-images.githubusercontent.com/48949523/79940487-145abc00-848c-11ea-8280-da634442ae4e.jpg)
 
