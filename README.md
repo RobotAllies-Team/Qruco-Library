@@ -1,7 +1,9 @@
 # Notice!!
 This library no longer update.
-I will continue do in : https://github.com/api-development/Qruco-Api-Version- (Api Development Verion)
-Or https://github.com/Hushub/Qruco-Lib (Hushub Creator Verion)
+
+# I will continue do in
+https://github.com/api-development/Qruco-Api-Version- (Api Development Verion)
+And https://github.com/Hushub/Qruco-Lib (Hushub Creator Verion)
 
 # Qruco-Libray
 library that base on ZXING
