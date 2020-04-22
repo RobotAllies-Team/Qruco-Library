@@ -1,6 +1,9 @@
 # Qruco-Libray
 library that base on ZXING
 
+# Performance test
+
+
 # Release
 Version 1.0 ALPHA Feature : Detect and Decode
 
