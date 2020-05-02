@@ -1,5 +1,3 @@
-
-
 # Qruco-Libray
 library that base on ZXING
 
