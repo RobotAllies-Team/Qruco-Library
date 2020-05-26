@@ -1,7 +1,14 @@
+# Notice!!
+This library no longer update.
+
+# I will continue do in
+https://github.com/api-development/Qruco-Api-Version- (Api Development Verion)
+And https://github.com/Hushub/Qruco-Lib (Hushub Creator Verion)
+
 # Qruco-Libray
 library that base on ZXING
 
-# Update!!
+# Update
 Version 1.1
 Date 4/22/2020
 Feature : include throws all exception
