@@ -140,6 +140,13 @@ public final class Result {
       resultPoints = allPoints;
     }
   }
+  
+  public double StringToDouble(String string){
+    String[] string_value = string.split(",");
+    double value = Float.parseFloat(string_value[1]);
+    return value;
+    
+  }
 
   public long getTimestamp() {
     return timestamp;
